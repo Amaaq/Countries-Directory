@@ -1,5 +1,5 @@
 
-<script lang="js">
+<script setup>
 
 </script>
 
